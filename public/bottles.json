@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Product A",
+    "image": "https://via.placeholder.com/300",
+    "brand": "Brand X",
+    "description": "Description for Product A",
+    "price": "$50"
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "image": "https://via.placeholder.com/300",
+    "brand": "Brand Y",
+    "description": "Description for Product B",
+    "price": "$30"
+  },
+  {
+    "id": 3,
+    "name": "Product C",
+    "image": "https://via.placeholder.com/300",
+    "brand": "Brand Z",
+    "description": "Description for Product C",
+    "price": "$34"
+  },
+  {
+    "id": 4,
+    "name": "Product D",
+    "image": "https://via.placeholder.com/300",
+    "brand": "Brand X",
+    "description": "Description for Product D",
+    "price": "$50"
+  },
+  {
+    "id": 5,
+    "name": "Product E",
+    "image": "https://via.placeholder.com/300",
+    "brand": "Brand Y",
+    "description": "Description for Product E",
+    "price": "$60"
+  }
+]
